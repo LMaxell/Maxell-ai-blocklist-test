@@ -1,0 +1,1157 @@
+# Title: Huge AI Blocklist
+# Expires: 1 day
+# Description: A huge blocklist of sites that contain AI generated content for uBlock Origin.
+# Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+#
+# Issues: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/issues
+# PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
+# Feel free to fork and submit pr's if you find more sites 
+# 
+# Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
+# ------------------------------------[FILTERS]-------------------------------------
+# Sites that have .ai domain extentions
+127.0.0.1  animegenius.ai
+127.0.0.1  artvy.ai
+127.0.0.1  plugger.ai
+127.0.0.1  zavant.ai
+127.0.0.1  openart.ai
+127.0.0.1  artguru.ai
+127.0.0.1  artsi.ai
+127.0.0.1  getimg.ai
+127.0.0.1  zmo.ai
+127.0.0.1  dream.ai
+127.0.0.1  arthub.ai
+127.0.0.1  opendream.ai
+127.0.0.1  wallpapers.ai
+127.0.0.1  prompti.ai
+127.0.0.1  shedevrum.ai
+127.0.0.1  lumenor.ai
+127.0.0.1  krea.ai
+127.0.0.1  animemaker.ai
+127.0.0.1  mockey.ai
+127.0.0.1  freeflo.ai
+127.0.0.1  pix.ai
+127.0.0.1  seaart.ai
+127.0.0.1  bgrem.ai
+127.0.0.1  artzone.ai
+127.0.0.1  thisanimedoesnotexist.ai
+127.0.0.1  crypko.ai
+127.0.0.1  images.ai
+127.0.0.1  deepswap.ai
+127.0.0.1  aitubo.ai
+127.0.0.1  holara.ai
+127.0.0.1  voicebot.ai
+127.0.0.1  pokeit.ai
+127.0.0.1  hotpot.ai
+127.0.0.1  pokeit.ai
+127.0.0.1  virtulook.ai
+127.0.0.1  learnmidjourney.ai
+127.0.0.1  blackink.ai
+127.0.0.1  picso.ai
+127.0.0.1  deepanime.ai
+127.0.0.1  toolify.ai
+127.0.0.1  storybird.ai
+127.0.0.1  leonardo.ai
+127.0.0.1  voicify.ai
+127.0.0.1  gpte.ai
+127.0.0.1  joinrealm.ai
+127.0.0.1  character.ai
+127.0.0.1  chub.ai
+127.0.0.1  pephop.ai
+127.0.0.1  nextdiffusion.ai
+127.0.0.1  popularaitools.ai
+127.0.0.1  imagekraft.ai
+127.0.0.1  remaker.ai
+127.0.0.1  foundr.ai
+127.0.0.1  kits.ai
+127.0.0.1  artroom.ai
+127.0.0.1  smokingrobot.ai
+127.0.0.1  dreamtavern.ai
+127.0.0.1  civit.ai
+127.0.0.1  100xgrowth.ai
+127.0.0.1  replicate.ai
+127.0.0.1  stability.ai
+127.0.0.1  qrcode.ai
+127.0.0.1  stork.ai
+127.0.0.1  metaphysic.ai
+127.0.0.1  stormi.ai
+127.0.0.1  graydient.ai
+127.0.0.1  onlyhent.ai
+127.0.0.1  lablab.ai
+127.0.0.1  midjourneyai.ai
+127.0.0.1  unite.ai
+127.0.0.1  deeplearning.ai
+127.0.0.1  topapps.ai
+127.0.0.1  miniapps.ai
+127.0.0.1  dang.ai
+127.0.0.1  artflow.ai
+127.0.0.1  hitpaw.ai
+127.0.0.1  gen.ai
+127.0.0.1  photosonic.ai
+127.0.0.1  artsmart.ai
+127.0.0.1  bluewillow.ai
+127.0.0.1  artspace.ai
+127.0.0.1  aiseo.ai
+127.0.0.1  jasper.ai
+127.0.0.1  imagineme.ai
+127.0.0.1  phot.ai
+127.0.0.1  insidr.ai
+127.0.0.1  genzart.ai
+127.0.0.1  hypotenuse.ai
+127.0.0.1  derwen.ai
+127.0.0.1  fritz.ai
+127.0.0.1  aplicaciones.ai
+127.0.0.1  godofprompt.ai
+127.0.0.1  serp.ai
+127.0.0.1  easy-peasy.ai
+127.0.0.1  toolsforhumans.ai
+127.0.0.1  lovo.ai
+127.0.0.1  pixelz.ai
+127.0.0.1  playform.ai
+127.0.0.1  junia.ai
+127.0.0.1  vmodel.ai
+127.0.0.1  artchan.ai
+127.0.0.1  ipic.ai
+127.0.0.1  recraft.ai
+127.0.0.1  ai-ui.ai
+127.0.0.1  openfuture.ai
+127.0.0.1  toolpilot.ai
+127.0.0.1  seo.ai
+127.0.0.1  layer.ai
+127.0.0.1  astria.ai
+127.0.0.1  gooey.ai
+127.0.0.1  journeyart.ai
+127.0.0.1  justthink.ai
+127.0.0.1  pluginplay.ai
+127.0.0.1  success.ai
+127.0.0.1  aitoolskit.ai
+127.0.0.1  xinva.ai
+127.0.0.1  contentatscale.ai
+127.0.0.1  dreamerland.ai
+127.0.0.1  comicsmaker.ai
+127.0.0.1  creaitor.ai
+127.0.0.1  techpilot.ai
+127.0.0.1  dreamstudio.ai
+127.0.0.1  gptstore.ai
+127.0.0.1  storyboardhero.ai
+127.0.0.1  rephrase.ai
+127.0.0.1  lalal.ai
+127.0.0.1  pictory.ai
+127.0.0.1  deep-image.ai
+127.0.0.1  opentools.ai
+127.0.0.1  ludo.ai
+127.0.0.1  usp.ai
+127.0.0.1  cree8.ai
+127.0.0.1  aioli.ai
+127.0.0.1  aiwizard.ai
+127.0.0.1  cookup.ai
+127.0.0.1  profilepicture.ai
+127.0.0.1  pict.ai
+127.0.0.1  creativitywith.ai
+127.0.0.1  sintra.ai
+127.0.0.1  getgenie.ai
+127.0.0.1  fliki.ai
+127.0.0.1  manytools.ai
+127.0.0.1  picfinder.ai
+127.0.0.1  artiphoria.ai
+127.0.0.1  stockimg.ai
+127.0.0.1  airbrush.ai
+127.0.0.1  arthemy.ai
+127.0.0.1  arthub.ai
+127.0.0.1  nsfwgenerator.ai
+127.0.0.1  onlyrizz.ai
+127.0.0.1  gofind.ai
+127.0.0.1  texta.ai
+127.0.0.1  novita.ai
+127.0.0.1  tooldirectory.ai
+127.0.0.1  daftart.ai
+127.0.0.1  sketchpro.ai
+127.0.0.1  libraire.ai
+127.0.0.1  jounce.ai
+127.0.0.1  jeda.ai
+127.0.0.1  appintro.ai
+127.0.0.1  myprint.ai
+127.0.0.1  sketchingimage.ai
+127.0.0.1  artimator.ai
+127.0.0.1  partly.ai
+127.0.0.1  imajinn.ai
+127.0.0.1  dreamup.ai
+127.0.0.1  artbot.ai
+127.0.0.1  portret.ai
+127.0.0.1  iliad.ai
+127.0.0.1  astria.ai
+127.0.0.1  paxi.ai
+127.0.0.1  diffusitron.ai
+127.0.0.1  dalle3.ai
+127.0.0.1  smart-tools.ai
+127.0.0.1  hunts.ai
+127.0.0.1  liveapps.ai
+127.0.0.1  powerusers.ai
+127.0.0.1  claude.ai
+127.0.0.1  covers.ai
+127.0.0.1  artemisia.ai
+127.0.0.1  facet.ai
+127.0.0.1  canterbury.ai
+127.0.0.1  promptchan.ai
+127.0.0.1  passio.ai
+127.0.0.1  tunib.ai
+127.0.0.1  goatstack.ai
+127.0.0.1  undetectablecontent.ai
+127.0.0.1  beebee.ai
+127.0.0.1  eilla.ai
+127.0.0.1  plask.ai
+127.0.0.1  lumalabs.ai
+127.0.0.1  odastudio.ai
+127.0.0.1  maket.ai
+127.0.0.1  corporateheadshots.ai
+127.0.0.1  caspa.ai
+127.0.0.1  productscope.ai
+127.0.0.1  avtrs.ai
+127.0.0.1  dreampic.ai
+127.0.0.1  chatsimple.ai
+127.0.0.1  sitespeak.ai
+127.0.0.1  humata.ai
+127.0.0.1  thesamur.ai
+127.0.0.1  aitable.ai
+127.0.0.1  codium.ai
+127.0.0.1  codewp.ai
+127.0.0.1  tldrdev.ai
+127.0.0.1  whatthediff.ai
+127.0.0.1  writehuman.ai
+127.0.0.1  webapi.ai
+127.0.0.1  meeting.ai
+127.0.0.1  zust.ai
+127.0.0.1  octie.ai
+127.0.0.1  getmanifest.ai
+127.0.0.1  gizzmo.ai
+127.0.0.1  coursebox.ai
+127.0.0.1  smartwriter.ai
+127.0.0.1  warmer.ai
+127.0.0.1  draftlab.ai
+127.0.0.1  quicklines.ai
+127.0.0.1  dittin.ai
+127.0.0.1  ai-girlfriend.ai
+127.0.0.1  charisma.ai
+127.0.0.1  inworld.ai
+127.0.0.1  layla-network.ai
+127.0.0.1  prompthero.ai
+127.0.0.1  pandorasbox.ai
+127.0.0.1  mirrorize.ai
+127.0.0.1  anakin.ai
+127.0.0.1  ideogram.ai
+127.0.0.1  2moons.ai
+127.0.0.1  alignmentlab.ai
+
+
+# Sites that have .com domain extentions
+127.0.0.1  hayo.com
+127.0.0.1  yodayo.com
+127.0.0.1  stable-diffusion-art.com
+127.0.0.1  prompthero.com
+127.0.0.1  civitai.com
+127.0.0.1  aituts.com
+127.0.0.1  ai4prompts.com
+127.0.0.1  greataiprompts.com
+127.0.0.1  letstryai.com
+127.0.0.1  replicate.com
+127.0.0.1  craiyon.com
+127.0.0.1  fotor.com
+127.0.0.1  stablediffusionbot.com
+127.0.0.1  openaijourney.com
+127.0.0.1  promptbase.com
+127.0.0.1  promptsvilla.com
+127.0.0.1  learnwithnaseem.com
+127.0.0.1  stableaiprompts.com
+127.0.0.1  creatixai.com
+127.0.0.1  promptsideas.com
+127.0.0.1  topmediai.com
+127.0.0.1  axioncapitalmanagement.com
+127.0.0.1  nftartwithlauren.com
+127.0.0.1  gemoo.com
+127.0.0.1  ambcrypto.com
+127.0.0.1  theresanaiforthat.com
+127.0.0.1  waifulabs.com
+127.0.0.1  aiplusinfo.com
+127.0.0.1  aiartdigest.com
+127.0.0.1  picwish.com
+127.0.0.1  socialdraft.com
+127.0.0.1  aitoolmall.com
+127.0.0.1  aianimeartgeneratorfree.com
+127.0.0.1  aiartshop.com
+127.0.0.1  laserpiles.com
+127.0.0.1  jacting.com
+127.0.0.1  starryai.com
+127.0.0.1  img2go.com
+127.0.0.1  shruggingface.com
+127.0.0.1  wondershare.com
+127.0.0.1  technolynx.com
+127.0.0.1  segmind.com
+127.0.0.1  sarahmeyohas.com
+127.0.0.1  davidarielszauder.com
+127.0.0.1  sarahmeyohas.com
+127.0.0.1  violetforest.com
+127.0.0.1  dreamup.com
+127.0.0.1  artbreeder
+127.0.0.1  portrait.vana.com
+127.0.0.1  aiartapps.com
+127.0.0.1  diffusionbee.com
+127.0.0.1  nijijourney.com
+127.0.0.1  davinciface.com
+127.0.0.1  superprompts.com
+127.0.0.1  ebsynth.com
+127.0.0.1  prodia.com
+127.0.0.1  baked-ai.com
+127.0.0.1  dreamboothr.com
+127.0.0.1  gaigify.com
+127.0.0.1  ai016.com
+127.0.0.1  mancoding.com
+127.0.0.1  gencraft.com
+127.0.0.1  dreamphillic.com
+127.0.0.1  phillipstelzel.com
+127.0.0.1  paintedsaintly.com
+127.0.0.1  promptxart.com
+127.0.0.1  aisixteen.com
+127.0.0.1  thepetpainting.com
+127.0.0.1  irmoai.com
+127.0.0.1  color-anything.com
+127.0.0.1  blimeycreate.com
+127.0.0.1  artreviewgenerator.com
+127.0.0.1  bdiscover.kakobrain.com
+127.0.0.1  yodayo.com
+127.0.0.1  aidungeon.com
+127.0.0.1  zazow.com
+127.0.0.1  starryai.com
+127.0.0.1  playarti.com
+127.0.0.1  playgroundai.com
+127.0.0.1  alkaidvision.com
+127.0.0.1  midjourney.com
+127.0.0.1  prompthunt.com
+127.0.0.1  aiartes.com
+127.0.0.1  deepdreamgenerator.com
+127.0.0.1  pica-ai.com
+127.0.0.1  ai-fantasy-art.com
+127.0.0.1  findmyaitool.com
+127.0.0.1  cloe.bytebeacon.com/@bb_ras
+127.0.0.1  portraitai.com
+127.0.0.1  dall-efree.com
+127.0.0.1  dopaminegirl.com
+127.0.0.1  thinkdiffusion.com
+127.0.0.1  dbzer0.com
+127.0.0.1  allthingsai.com
+127.0.0.1  aieasypic.com
+127.0.0.1  automationswitch.com
+127.0.0.1  graviti.com
+127.0.0.1  aixploria.com
+127.0.0.1  pjoshi15.com
+127.0.0.1  adultaitools.com
+127.0.0.1  sprinkleofai.com
+127.0.0.1  problembo.com
+127.0.0.1  cloudbooklet.com
+127.0.0.1  kawaiiai.com
+127.0.0.1  pixlr.com
+127.0.0.1  curiousrefuge.com
+127.0.0.1  promeai.com
+127.0.0.1  theinsaneapp.com
+127.0.0.1  interiorai.com
+127.0.0.1  cliptics.com
+127.0.0.1  thataicollection.com
+127.0.0.1  augxlabs.com
+127.0.0.1  askstockgpt.com
+127.0.0.1  blimeycreate.com
+127.0.0.1  kaedim3d.com
+127.0.0.1  masterpiecestudio.com
+127.0.0.1  shopdeft.com
+127.0.0.1  airoomplanner.com
+127.0.0.1  icons8.com
+127.0.0.1  hairstyleai.com
+127.0.0.1  epic-avatar.com
+127.0.0.1  myaskai.com
+127.0.0.1  lemonsqueezy.com
+127.0.0.1  writelyai.com
+127.0.0.1  neuro-flash.com
+127.0.0.1  wordai.com
+127.0.0.1  unboundml.com
+127.0.0.1  descript.com
+127.0.0.1  lilybankai.com
+127.0.0.1  lightricks.com
+127.0.0.1  poised.com
+127.0.0.1  wizishop.com
+127.0.0.1  domyshoot.com
+127.0.0.1  quizgecko.com
+127.0.0.1  askbotta.com
+127.0.0.1  speakingclubai.com
+127.0.0.1  fairytailai.com
+127.0.0.1  tryellie.com
+127.0.0.1  emailtriager.com
+127.0.0.1  fashionadvisorai.com
+127.0.0.1  swag-ai.com
+127.0.0.1  openaisea.com
+127.0.0.1  generateart.com
+127.0.0.1  centralaitools.com
+127.0.0.1  pixcores.com
+127.0.0.1  stablediffusionaigenerator.com
+127.0.0.1  7mmblog.com
+127.0.0.1  pfptown.com
+127.0.0.1  dreamsofbooks.com
+127.0.0.1  conservationcubclub.com
+127.0.0.1  easywithai.com
+127.0.0.1  future-pedia.com
+127.0.0.1  pixai.com
+127.0.0.1  canva.com/ai-art-generator
+127.0.0.1  picsart.com/ai-image-generator
+127.0.0.1  magicstudio.com
+
+
+# Sites that have .art domain extentions
+127.0.0.1  imagine.art
+127.0.0.1  jasper.art
+127.0.0.1  artgeneratorai.art
+127.0.0.1  nft-generator.art
+127.0.0.1  dreamlike.art
+127.0.0.1  foxify.art
+127.0.0.1  lexica.art
+127.0.0.1  generators.art
+127.0.0.1  pixai.art
+127.0.0.1  dreamerai.art
+127.0.0.1  blueshadow.art
+127.0.0.1  zetu.art
+127.0.0.1  quickqr.art
+127.0.0.1  tensor.art
+127.0.0.1  pixagen.art
+127.0.0.1  weirdwonderfulai.art
+127.0.0.1  deca.art
+127.0.0.1  art4you.art
+127.0.0.1  ai-illustwitter.art
+127.0.0.1  ai-concept.art
+127.0.0.1  stable-diffusion-ai.art
+127.0.0.1  monai.art
+127.0.0.1  openjourney.art
+127.0.0.1  stableai.art
+127.0.0.1  redraw.art
+127.0.0.1  neuralstyle.art
+127.0.0.1  cotax.art
+127.0.0.1  wombo.art
+127.0.0.1  aimade.art
+127.0.0.1  supermachine.art
+127.0.0.1  nudify.art
+127.0.0.1  genie.art
+127.0.0.1  drip.art
+127.0.0.1  faerian.art
+127.0.0.1  ai-art-generator.art
+127.0.0.1  davinciai.art
+127.0.0.1  pika.art
+127.0.0.1  aizhubo.art
+127.0.0.1  alkaid.art
+127.0.0.1  6pen.art
+127.0.0.1  turbo.art
+127.0.0.1  nouai.art
+127.0.0.1  forthewall.art
+127.0.0.1  qrious.art
+127.0.0.1  dreamify.art
+127.0.0.1  moonlightai.art
+127.0.0.1  publicprompts.art
+127.0.0.1  bestaiprompts.art
+127.0.0.1  openai.art
+127.0.0.1  majinai.art
+127.0.0.1  aipromptpalettes.art
+127.0.0.1  aiava.art
+127.0.0.1  kalos.art
+127.0.0.1  iaimages.art
+127.0.0.1  diffusionai.art
+127.0.0.1  tlyrics.art
+127.0.0.1  aiprofilepic.art
+127.0.0.1  aistyle.art
+127.0.0.1  elephant.art
+127.0.0.1  promptle.art
+127.0.0.1  amaizing.art
+127.0.0.1  cadriel.art
+127.0.0.1  tdraw.art
+127.0.0.1  dsjs.art
+127.0.0.1  vrai.art
+127.0.0.1  vegas-ai.art
+127.0.0.1  ai-wiz.art
+127.0.0.1  stable-diffusion.art
+127.0.0.1  tryhologram.art
+127.0.0.1  replicable.art
+127.0.0.1  my-ai.art
+127.0.0.1  elna-ai.art
+127.0.0.1  romankos.art
+127.0.0.1  sandner.art
+127.0.0.1  coinllectibles.art
+127.0.0.1  exchange.art
+127.0.0.1  bernardusmuller.art
+127.0.0.1  ai-generated.art
+127.0.0.1  gallery-ai.art
+127.0.0.1  storyteller.art
+127.0.0.1  carbonai.art
+127.0.0.1  aii.art
+127.0.0.1  cheapnft.art
+127.0.0.1  fabdream.art
+127.0.0.1  evolutionary.art
+127.0.0.1  generai.art
+127.0.0.1  voidsynth.art
+127.0.0.1  seek.art
+127.0.0.1  kiri.art
+127.0.0.1  6open.art
+127.0.0.1  pictureit.art
+127.0.0.1  bloomoon.art
+127.0.0.1  bashable.art
+127.0.0.1  assetsai.art
+127.0.0.1  liblib.art
+
+
+# Sites that have .co domain extention
+127.0.0.1  huggingface.co
+127.0.0.1  clipdrop.co
+127.0.0.1  postalai.co
+127.0.0.1  thedreamkeeper.co
+127.0.0.1  artprint.co
+127.0.0.1  scrum.co
+127.0.0.1  iamfy.co
+127.0.0.1  diffusionart.co
+127.0.0.1  cameralyze.co
+127.0.0.1  midjourney.co
+127.0.0.1  jinnee.co
+127.0.0.1  chatbase.co
+127.0.0.1  embolden.co
+127.0.0.1  superreply.co
+127.0.0.1  hiddendoor.co
+
+
+# Sites that have .net domain extention
+127.0.0.1  illusiondiffusion.net
+127.0.0.1  kreaai.net
+127.0.0.1  nicepixels.net
+127.0.0.1  stable-diffusion-online.net
+127.0.0.1  stable-diffusion.net
+127.0.0.1  csdn.net
+127.0.0.1  podcastrocket.net
+127.0.0.1  promptpal.net
+
+
+# Sites that have miscellaneous domain extensions (eg. .pub, io, etc.)
+127.0.0.1  transpic.cn
+127.0.0.1  sticky.cool
+127.0.0.1  live3d.io
+127.0.0.1  toolspedia.io
+127.0.0.1  instantart.io
+127.0.0.1  toolai.io
+127.0.0.1  ai-art.latitude.io
+127.0.0.1  sketchar.io
+127.0.0.1  futurepedia.io
+127.0.0.1  midlibrary.io
+127.0.0.1  artifylabs.io
+127.0.0.1  kahma.io
+127.0.0.1  artspark.io
+127.0.0.1  draeno.io
+127.0.0.1  letsenhance.io
+127.0.0.1  lipsumar.io
+127.0.0.1  gpt4free.io
+127.0.0.1  swimm.io
+127.0.0.1  cohere.io
+127.0.0.1  lorro.io
+127.0.0.1  teacherbot.io
+127.0.0.1  latitude.io
+127.0.0.1  ggpredict.io
+127.0.0.1  artimator.io
+127.0.0.1  memo.tv
+127.0.0.1  quasi.market
+127.0.0.1  diffusion.land
+127.0.0.1  neural.love
+127.0.0.1  mage.space
+127.0.0.1  aipicasso.studio.site
+127.0.0.1  phraser.tech
+127.0.0.1  imagineme.app
+127.0.0.1  roughly.app
+127.0.0.1  eightify.app
+127.0.0.1  aigallery.app
+127.0.0.1  spreadai.app
+127.0.0.1  hypic.app
+127.0.0.1  animeai.app
+127.0.0.1  giotto.streamlit.app
+127.0.0.1  acrylic.typedream.app
+127.0.0.1  imageai.app
+127.0.0.1  wand.app
+127.0.0.1  make3d.app
+127.0.0.1  petbooth.app
+127.0.0.1  outfitanyone.app
+127.0.0.1  phraser.tech
+127.0.0.1  client.aigur.dev
+127.0.0.1  aiart.dev
+127.0.0.1  background.lol
+127.0.0.1  deepanime.software
+127.0.0.1  barcode.so
+127.0.0.1  unleash.so
+127.0.0.1  dreamwalker.fun
+127.0.0.1  aiart.fm
+127.0.0.1  aiart.limited
+127.0.0.1  chilloutai.xyz
+127.0.0.1  aimons.xyz
+127.0.0.1  qrcraft.xyz
+127.0.0.1  pixelicious.xyz
+127.0.0.1  texturelab.xyz
+127.0.0.1  lovelines.xyz
+127.0.0.1  generaitiv.xyz
+127.0.0.1  petalica.paint
+127.0.0.1  yoohoo.cards
+127.0.0.1  nightcafe.studio
+127.0.0.1  cutout.pro
+127.0.0.1  freeaiavatargenerator.pro
+127.0.0.1  nightcafe.studio
+127.0.0.1  nightcafe.studio
+127.0.0.1  diffusion.to
+127.0.0.1  deepai.org
+127.0.0.1  mlyearning.org
+127.0.0.1  topai.tools
+127.0.0.1  generativeai.pub
+127.0.0.1  midjourney.co.in
+127.0.0.1  aiartgenerator.us
+127.0.0.1  aitools.fyi
+127.0.0.1  image.computer
+127.0.0.1  carboncopy.pro
+127.0.0.1  aimojo.pro
+127.0.0.1  damngood.tools
+127.0.0.1  echo.win
+127.0.0.1  aigirlfriend.wtf
+127.0.0.1  ai.google
+127.0.0.1  olafjeziorski.pl
+127.0.0.1  otasarimciol.shop
+
+
+# Google Play AI applications
+127.0.0.1  play.google.com/store/apps/details?id=com.sola.anime.ai.generator
+127.0.0.1  play.google.com/store/apps/details?id=com.vyroai.animeart
+127.0.0.1  play.google.com/store/apps/details?id=ai.art.anime
+127.0.0.1  play.google.com/store/apps/details?id=aiart.generator.aigc
+127.0.0.1  play.google.com/store/apps/details?id=com.animeart.animeavatar
+127.0.0.1  play.google.com/store/apps/details?id=com.aesoft.app.lockscreen.patternlocker
+127.0.0.1  play.google.com/store/apps/details?id=anime.generator.aigc
+127.0.0.1  play.google.com/store/apps/details?id=com.anime.ai.art.generator.text.to.image.generator.artwork
+127.0.0.1  play.google.com/store/apps/details?id=com.createaiart.aigenerator.draw.photo
+127.0.0.1  play.google.com/store/apps/details?id=com.daydreamers.reiai
+127.0.0.1  play.google.com/store/apps/details?id=com.brianmason101.waifu.maker
+127.0.0.1  play.google.com/store/apps/details?id=com.flow.animeaiart
+127.0.0.1  play.google.com/store/apps/details?id=com.nft.creator.nftartmaker.crypto
+127.0.0.1  play.google.com/store/apps/details?id=com.art.ly.aiart.animeart.photoenhancer
+127.0.0.1  play.google.com/store/apps/details?id=com.Anime.AI.Art.Generator
+127.0.0.1  play.google.com/store/apps/details?id=com.supono.dalleaigenerator
+127.0.0.1  play.google.com/store/apps/details?id=lava.aesthetic.art.anime.wallpapers.com
+127.0.0.1  play.google.com/store/apps/details?id=anime.wallpapers4k.offline
+127.0.0.1  play.google.com/store/apps/details?id=com.ai.art.generator.avatar.creator.unique
+127.0.0.1  play.google.com/store/apps/details?id=ai.art.generator.design
+
+
+# Apple AI applications
+127.0.0.1  apple.com/us/app/ai-art-generator-hitpaw/id6444304300
+
+
+# Gross nudify sites/deepfakes/porn (why isn't this illegal?!?!)
+127.0.0.1  sukebezone.com
+127.0.0.1  fantasygf.ai
+127.0.0.1  n8ked.app
+127.0.0.1  deepnude.cc
+127.0.0.1  teletype.in/@hackfreaks
+127.0.0.1  clothoff.io
+127.0.0.1  dreamgf.ai
+127.0.0.1  deepnude.ca
+127.0.0.1  nudify.online
+127.0.0.1  deep-nude.ai
+127.0.0.1  pornjoy.ai
+127.0.0.1  pornx.ai
+127.0.0.1  sexy.ai
+127.0.0.1  pornpen.ai
+127.0.0.1  ai-porn.ai
+127.0.0.1  candy.ai
+127.0.0.1  deepnudify.com
+127.0.0.1  undressing.io
+127.0.0.1  seduced.ai
+127.0.0.1  smexy.ai
+127.0.0.1  onlybabes.ai
+127.0.0.1  deepnudenow.com
+127.0.0.1  nsfwartgenerator.ai
+127.0.0.1  makenude.ai
+127.0.0.1  aiporn.net
+127.0.0.1  deep-nude.co
+127.0.0.1  newfuku.com
+127.0.0.1  undress.love
+127.0.0.1  mrdeepfakes.com
+127.0.0.1  heyeditor.net
+127.0.0.1  deepsukebe.io
+127.0.0.1  wannafake.com
+127.0.0.1  swapface.org
+127.0.0.1  deepfaker.app
+127.0.0.1  soulgen.net
+127.0.0.1  perchance.org
+127.0.0.1  dezgo.com
+127.0.0.1  nudeme.net
+127.0.0.1  undress.vip
+127.0.0.1  undress.photo
+127.0.0.1  selfievibe.art
+127.0.0.1  nubee.ai
+127.0.0.1  undress.show
+127.0.0.1  nudify.site
+127.0.0.1  pornify.cc
+127.0.0.1  pornderful.ai
+127.0.0.1  gptgirlfriend.online
+127.0.0.1  nudify.life
+127.0.0.1  made.porn
+127.0.0.1  x-pictures.io
+127.0.0.1  trynectar.ai
+127.0.0.1  porngen.art
+127.0.0.1  penly.ai
+127.0.0.1  glamgirls.ai
+127.0.0.1  pornjourney.ai
+127.0.0.1  ehentai.ai
+127.0.0.1  getidol.com
+127.0.0.1  nsfwcharacter.ai
+127.0.0.1  kupid.ai
+127.0.0.1  bot3.ai
+127.0.0.1  pornworks.ai
+127.0.0.1  spicy.porn
+127.0.0.1  moemate.io
+127.0.0.1  pornwaifu.io
+127.0.0.1  charfriend.com
+127.0.0.1  iwaifu.com
+127.0.0.1  erogen.ai
+127.0.0.1  onlyfakes.app
+127.0.0.1  nolo.ai
+127.0.0.1  createporn.com
+127.0.0.1  icegirls.ai
+127.0.0.1  aipornhub.net
+127.0.0.1  imake.porn
+127.0.0.1  ai-dreamgirls.com
+127.0.0.1  hentai.kitchen
+127.0.0.1  getporn.ai
+127.0.0.1  porn.ai
+127.0.0.1  aigirlfriend.wtf
+127.0.0.1  privee.ai
+127.0.0.1  pornai.tv
+127.0.0.1  nsfw.xxx
+127.0.0.1  pornlabs.net
+127.0.0.1  onlynsfw.ai
+127.0.0.1  sharaku.us
+127.0.0.1  aihentai.co
+127.0.0.1  pornstars.ai
+127.0.0.1  aiexotic.com
+127.0.0.1  nudeai.de
+127.0.0.1  nudeai.com
+127.0.0.1  celebjihad.com
+127.0.0.1  soulfun.ai
+127.0.0.1  ainude.ai
+127.0.0.1  nudefusion.com
+127.0.0.1  undress.app
+127.0.0.1  pixelmaniya.com
+127.0.0.1  undressai.com
+127.0.0.1  ainude.porn
+127.0.0.1  nudify-her.com
+127.0.0.1  nudes.ai
+127.0.0.1  deepnude-ai.com
+
+
+# //// Block lists of individual users
+
+# Block list of AI "artists"/orgs (twitter)
+127.0.0.1  x.com/ew_corpse
+127.0.0.1  twitter.com/ew_corpse
+127.0.0.1  x.com/TimChia83
+127.0.0.1  twitter.com/TimChia83
+127.0.0.1  x.com/LearnAI_MJ
+127.0.0.1  twitter.com/LearnAI_MJ
+127.0.0.1  x.com/ai_insights_lab
+127.0.0.1  twitter.com/ai_insights_lab
+127.0.0.1  x.com/Lykon4072
+127.0.0.1  twitter.com/Lykon4072
+127.0.0.1  x.com/LeonardoAi_
+127.0.0.1  twitter.com/LeonardoAi_
+127.0.0.1  x.com/Suhail
+127.0.0.1  twitter.com/Suhail
+127.0.0.1  x.com/AI_ART__
+127.0.0.1  twitter.com/AI_ART__
+127.0.0.1  x.com/amli_art
+127.0.0.1  twitter.com/amli_art
+127.0.0.1  x.com/shadmbrooks
+127.0.0.1  twitter.com/shadmbrooks
+127.0.0.1  x.com/SebastianKamph
+127.0.0.1  twitter.com/SebastianKamph
+127.0.0.1  x.com/slickcityceo
+127.0.0.1  twitter.com/slickcityceo
+127.0.0.1  twitter.com/accelthreatr
+127.0.0.1  x.com/OlivioSarikas
+127.0.0.1  twitter.com/OlivioSarikas
+127.0.0.1  twitter.com/midjourney
+127.0.0.1  x.com/midjourney
+127.0.0.1  twitter.com/midjourneyarts
+127.0.0.1  x.com/midjourneyarts
+127.0.0.1  twitter.com/MidjourneyAiArt
+127.0.0.1  x.com/MidjourneyAiArt
+127.0.0.1  twitter.com/AI_Art_Gura
+127.0.0.1  x.com/AI_Art_Gura
+127.0.0.1  twitter.com/toyxyz3
+127.0.0.1  x.com/toyxyz3
+127.0.0.1  twitter.com/ai_characters
+127.0.0.1  x.com/ai_characters
+127.0.0.1  twitter.com/Only2142
+127.0.0.1  x.com/Only2142
+127.0.0.1  twitter.com/booool125747
+127.0.0.1  x.com/booool125747
+127.0.0.1  twitter.com/EasonnLi
+127.0.0.1  x.com/EasonnLi
+127.0.0.1  twitter.com/SyliconDreams
+127.0.0.1  x.com/SyliconDreams
+127.0.0.1  twitter.com/GAICommunity
+127.0.0.1  x.com/GAICommunity
+127.0.0.1  twitter.com/cocotte_ai
+127.0.0.1  x.com/cocotte_ai
+127.0.0.1  twitter.com/AonekoSS
+127.0.0.1  x.com/AonekoSS
+127.0.0.1  twitter.com/_layla_ai
+127.0.0.1  x.com/_layla_ai
+127.0.0.1  twitter.com/blaize_mayes
+127.0.0.1  x.com/blaize_mayes
+127.0.0.1  twitter.com/Clie_X
+127.0.0.1  x.com/Clie_X
+127.0.0.1  twitter.com/Tomwhoopty906_1
+127.0.0.1  x.com/Tomwhoopty906_1
+127.0.0.1  twitter.com/21xfour
+127.0.0.1  x.com/21xfour
+127.0.0.1  twitter.com/artist_dalle
+127.0.0.1  x.com/artist_dalle
+127.0.0.1  twitter.com/AiDesignSA
+127.0.0.1  x.com/AiDesignSA
+127.0.0.1  twitter.com/MessiyaAI
+127.0.0.1  x.com/MessiyaAI
+127.0.0.1  twitter.com/ver_AI_
+127.0.0.1  x.com/ver_AI_
+127.0.0.1  twitter.com/ObeyAiArt
+127.0.0.1  x.com/ObeyAiArt
+127.0.0.1  twitter.com/alignment_lab
+127.0.0.1  x.com/alignment_lab
+127.0.0.1  twitter.com/EMostaque
+127.0.0.1  x.com/EMostaque
+127.0.0.1  twitter.com/deviantart
+127.0.0.1  x.com/deviantart
+
+
+# Block list of AI "artists"/orgs (youtube)
+127.0.0.1  youtube.com/@shadiversity
+127.0.0.1  youtube.com/channel/UCkmMACUKpQeIxN9D9ARli1Q
+127.0.0.1  youtube.com/@SHAD_AI
+127.0.0.1  youtube.com/@sebastiankamph
+127.0.0.1  youtube.com/channel/UCvKqTb-65iAmXK59sFNKINQ
+127.0.0.1  youtube.com/@enigmatic_e
+127.0.0.1  youtube.com/channel/UClSBolYONOzQjOzE4cMHfpw
+127.0.0.1  youtube.com/@LaCarnevali
+127.0.0.1  youtube.com/@OlivioSarikas
+
+
+# Block list of AI "artists"/orgs (instagram)
+127.0.0.1  instagram.com/_prateekarora
+127.0.0.1  instagram.com/xonorika
+127.0.0.1  instagram.com/slickcityceo
+127.0.0.1  instagram.com/sentientmuppetfactory
+127.0.0.1  instagram.com/akvares
+127.0.0.1  instagram.com/artzoneai
+127.0.0.1  instagram.com/aianimeworld
+127.0.0.1  instagram.com/picso_ai
+127.0.0.1  instagram.com/genshin.aiarts
+127.0.0.1  instagram.com/raymur.art
+127.0.0.1  instagram.com/ai.sakuraaa
+127.0.0.1  instagram.com/ai.create.labo
+127.0.0.1  instagram.com/sushi_tabetai_sushi
+127.0.0.1  instagram.com/genshin.onlyarts
+127.0.0.1  instagram.com/reel
+127.0.0.1  instagram.com/hirokazu_yokohara
+127.0.0.1  instagram.com/blxck.ai
+127.0.0.1  instagram.com/castorai430
+127.0.0.1  instagram.com/ai_chan_neuroart
+127.0.0.1  instagram.com/nickocreates.ai
+127.0.0.1  instagram.com/innadakota.anime
+127.0.0.1  instagram.com/de.sorrowcy
+127.0.0.1  instagram.com/misaki.aiart
+127.0.0.1  instagram.com/michaelstories
+127.0.0.1  instagram.com/trulyshinza
+127.0.0.1  instagram.com/kapibagi
+127.0.0.1  instagram.com/superaigoddesses
+127.0.0.1  instagram.com/ladyphoenix.ai
+127.0.0.1  instagram.com/bex.ai
+127.0.0.1  instagram.com/the_ai_telier
+127.0.0.1  instagram.com/beiy02
+127.0.0.1  instagram.com/novaborngaming
+127.0.0.1  instagram.com/nijimoemon
+127.0.0.1  instagram.com/animemodel2022
+127.0.0.1  instagram.com/a_n_i_m_e___f_a_n
+127.0.0.1  instagram.com/kenz.esther
+127.0.0.1  instagram.com/hotarka_ai_art
+127.0.0.1  instagram.com/missfidonyoart
+127.0.0.1  instagram.com/oliviotutorials
+127.0.0.1  instagram.com/hellocivitai
+127.0.0.1  instagram.com/wand.official
+
+
+# Block list of AI "artists"/orgs (pinterest)
+127.0.0.1  pinterest.com/warking999999
+127.0.0.1  pinterest.com/racingtff
+127.0.0.1  pinterest.com/aquanier2b
+127.0.0.1  pinterest.com/aiartyapp
+127.0.0.1  pinterest.com/Misaffective
+127.0.0.1  pinterest.com/ItzK4rm4
+127.0.0.1  pinterest.com/digantachangmai1
+127.0.0.1  pinterest.com/bunnycherry07112003
+127.0.0.1  pinterest.com/matcha_blossom001
+127.0.0.1  pinterest.com/dalehandie99
+127.0.0.1  pinterest.com/dikshathakur9844
+127.0.0.1  pinterest.com/aniketakuminsan
+127.0.0.1  pinterest.com/jesmayne18
+127.0.0.1  pinterest.com/iceprincessesra
+127.0.0.1  pinterest.com/Aiartanime
+127.0.0.1  pinterest.com/evolvAI
+127.0.0.1  pinterest.com/komalpanth
+127.0.0.1  pinterest.com/raj5hajong
+127.0.0.1  pinterest.com/saeedahmadi694
+127.0.0.1  pinterest.com/wangxu3409720947
+127.0.0.1  pinterest.com/peter123sss
+127.0.0.1  pinterest.com/seraphiana
+127.0.0.1  pinterest.com/img2prompt
+127.0.0.1  pinterest.com/raphaelvalentine257
+127.0.0.1  pinterest.com/maidelisavila
+127.0.0.1  pinterest.com/radsamkat
+127.0.0.1  pinterest.com/imagin8st
+127.0.0.1  pinterest.com/personalparanoiaparadox
+127.0.0.1  pinterest.com/nandiswapan
+127.0.0.1  pinterest.com/artsbyai
+127.0.0.1  pinterest.com/saharabegum0030
+127.0.0.1  pinterest.com/hughjamin
+127.0.0.1  pinterest.com/jackwalker78787
+127.0.0.1  pinterest.com/moon_cat_art
+127.0.0.1  pinterest.com/TooGood_FSH
+127.0.0.1  pinterest.com/tonnyfroyen
+127.0.0.1  pinterest.com/rhiakai86
+127.0.0.1  pinterest.com/hardikmd124
+127.0.0.1  pinterest.com/WinterAIArt
+127.0.0.1  pinterest.com/Aiartanime
+127.0.0.1  pinterest.com/arabiclogos_com
+127.0.0.1  pinterest.com/emmapreston93
+127.0.0.1  pinterest.com/isabellakinape
+127.0.0.1  pinterest.com/dlm003
+127.0.0.1  pinterest.com/colorimagerystudio
+127.0.0.1  pinterest.com/RhamonYves
+127.0.0.1  pinterest.com/demitobella
+127.0.0.1  pinterest.com/glee4076
+127.0.0.1  pinterest.com/arslanali4343
+127.0.0.1  pinterest.com/Artify_ai
+127.0.0.1  pinterest.com/0ccmbkgxrcqh40h
+127.0.0.1  pinterest.com/daotae
+127.0.0.1  pinterest.com/aiart1
+127.0.0.1  pinterest.com/aesgirf
+127.0.0.1  pinterest.com/moroccan4968
+127.0.0.1  pinterest.com/EnchantedRoze3
+127.0.0.1  pinterest.com/animeaiwaifus
+127.0.0.1  pinterest.com/kingvinst
+127.0.0.1  pinterest.com/BellaBlues99
+127.0.0.1  pinterest.com/fira1747
+
+
+# Block list of AI "artists"/orgs (behance)
+127.0.0.1  behance.net/oliviosarikas
+
+
+# Block list of AI "artists"/orgs (ko-fi)
+127.0.0.1  ko-fi.com/ainomad
+
+
+# Block list of AI "artists"/orgs (deviantart)
+127.0.0.1  deviantart.com/vyerran
+127.0.0.1  deviantart.com/alyskan
+127.0.0.1  deviantart.com/rasooliartworks
+127.0.0.1  deviantart.com/cyberxyt
+127.0.0.1  deviantart.com/zerofourai
+127.0.0.1  deviantart.com/allbeautifulgirl
+127.0.0.1  deviantart.com/zkreations
+127.0.0.1  deviantart.com/darkprncsai
+127.0.0.1  deviantart.com/dendyh7
+127.0.0.1  deviantart.com/jaredsyn
+
+
+# Block list of AI "artists"/orgs (artstation)
+127.0.0.1  artstation.com/tryintogetthere
+
+
+# Block list of AI "artists"/orgs (facebook)
+127.0.0.1  facebook.com/cuteanimegirl99
+127.0.0.1  facebook.com/cuteanimegirl99
+127.0.0.1  facebook.com/TheTiniestTiger
+
+
+# Artstation shit
+127.0.0.1  artstation.com/artwork/KOJ80W
+
+
+# s.id garbage
+127.0.0.1  s.id/AIArtGaia
+
+
+# ko-fi garbage
+127.0.0.1  ko-fi.com/s/cfcbe64e46
+127.0.0.1  ko-fi.com/s/0b1ee02cef
+127.0.0.1  ko-fi.com/s/12dd0f892e
+127.0.0.1  ko-fi.com/s/26646f3ac9
+127.0.0.1  ko-fi.com/s/af9a23d375
+
+
+# Freepik garbage
+127.0.0.1  freepik.com/premium-ai-image
+127.0.0.1  freepik.com/premium-photo/santa-christmas-snowman-with-christmas-tree-background_34806921
+127.0.0.1  freepik.com/premium-photo/circus-tent-with-balloons-sweets-blue-background-generative-ai_39088161.htm
+127.0.0.1  freepik.com/premium-photo/moon-background-with-astronaut-image-ai-generated-art_39726721.htm
+127.0.0.1  freepik.com/author/smmstore773
+
+
+# Linkedin garbage
+127.0.0.1  linkedin.com/in/justmaier
+
+
+# Medium garbage
+127.0.0.1  medium.com/@inchristiely
+127.0.0.1  medium.com/@aitubo011
+127.0.0.1  medium.com/mlearning-ai
+127.0.0.1  medium.com/generative-ai/
+
+
+# // Miscellaneous crypto/nft shit
+127.0.0.1  cryptoart.io
+127.0.0.1  opensea.io
+127.0.0.1  datadriveninvestor.com
+
+
+# // Etsy shit
+127.0.0.1  etsy.com/listing/1458059429
+127.0.0.1  etsy.com/listing/1368236844
+
+
+# // Individual Pinterest shit
+127.0.0.1  pinterest.com/pin/428053139600411583
+127.0.0.1  pinterest.com/pin/143130094401282814
+127.0.0.1  pinterest.com/pin/1041879695027157288/
+127.0.0.1  pinterest.com/pin/quick-saves--1041879695027157288
+127.0.0.1  pinterest.com/pin/594967800804194444
+127.0.0.1  pinterest.com/pin/alltime-favorite-female-anime-characters-according-to-fans--562527809720856076
+127.0.0.1  pinterest.com/pin/mulher-fatal
+127.0.0.1  pinterest.com/pin/563018696976219
+
+# // Adobe shit
+127.0.0.1  adobe.com/products/firefly
+127.0.0.1  adobe.com/ca/products/firefly
+127.0.0.1  adobe.com/uk/products/firefly
+
+# // Individual Adobe Stock shit
+127.0.0.1  stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091927
+127.0.0.1  stock.adobe.com/images/abstract-painting-about-anime-girl-with-close-up-view-at-the-face-splash-colour-art-portrait-of-anime-girl-digital-art-style-illustration-painting-generative-ai/569091986
+
+
+# // Individual Artstation shit
+127.0.0.1  artstation.com/artwork/kQZoLA
+
+
+# // Fiverr shit
+127.0.0.1  fiverr.com/bleassome
+
+
+# //// Block list of AI subreddits
+127.0.0.1  reddit.com/r/StableDiffusion
+127.0.0.1  reddit.com/r/aiArt
+127.0.0.1  reddit.com/r/midjourney
+127.0.0.1  reddit.com/r/MachineLearning
+127.0.0.1  reddit.com/r/deepdream
+127.0.0.1  reddit.com/r/MediaSynthesis
+127.0.0.1  reddit.com/r/sdforall
+127.0.0.1  reddit.com/r/DefendingAIArt
+127.0.0.1  reddit.com/r/riffusion
+127.0.0.1  reddit.com/r/DeepFloydIF
+127.0.0.1  reddit.com/r/Arthemy
+127.0.0.1  reddit.com/r/aiwars
+127.0.0.1  reddit.com/r/OpenAI
+127.0.0.1  reddit.com/r/nightcafe
+127.0.0.1  reddit.com/r/civitai
+127.0.0.1  reddit.com/r/ChatGPT
+127.0.0.1  reddit.com/r/ArtificialInteligence
+127.0.0.1  reddit.com/r/leonardoai
+127.0.0.1  reddit.com/r/ProductHunters
+127.0.0.1  reddit.com/r/SukiAI
+127.0.0.1  reddit.com/r/NovelAi
+127.0.0.1  reddit.com/r/ai_artworld
+127.0.0.1  reddit.com/r/AIGrinding
+127.0.0.1  reddit.com/r/aivideo
+127.0.0.1  reddit.com/r/CharacterAI
+127.0.0.1  reddit.com/r/Aihotgirl
+127.0.0.1  reddit.com/r/IndianArtAI
+127.0.0.1  reddit.com/r/MBVirtualVixens
+127.0.0.1  reddit.com/r/HQ_AI_Ecchi
+127.0.0.1  reddit.com/r/AIGirlfriend
+127.0.0.1  reddit.com/r/AIGeneratedArt
+127.0.0.1  reddit.com/r/sexbotlovers
+127.0.0.1  reddit.com/r/Indian_AI_Girls
+127.0.0.1  reddit.com/r/AIArtwork
+127.0.0.1  reddit.com/r/ailookbook
+127.0.0.1  reddit.com/r/Chatbots
+127.0.0.1  reddit.com/r/dndai
+127.0.0.1  reddit.com/r/dalle2
+127.0.0.1  reddit.com/r/AICharacterDrawing
+127.0.0.1  reddit.com/r/DungeonoftheMadMage
+127.0.0.1  reddit.com/r/aitoolsupdate
+127.0.0.1  reddit.com/r/deeplearning
+127.0.0.1  reddit.com/r/AnimeAIArt
+127.0.0.1  reddit.com/r/AIartbattle
+127.0.0.1  reddit.com/r/AICatgirls
+127.0.0.1  reddit.com/r/layla_ai
+127.0.0.1  reddit.com/r/nonutsnightmare
+127.0.0.1  reddit.com/r/aigoddesses
+127.0.0.1  reddit.com/r/AIpornhub
+127.0.0.1  reddit.com/r/AiUncensored
+127.0.0.1  reddit.com/r/Ai_and_Digital_arts
+127.0.0.1  reddit.com/r/AiHentaiArtwork
+127.0.0.1  reddit.com/r/singularity
+127.0.0.1  reddit.com/r/Pixai_Official
+
+
+# // Block list of AI reddit users
+127.0.0.1  reddit.com/user/aidaily0
+127.0.0.1  reddit.com/user/Wyprany
+127.0.0.1  reddit.com/user/AIContent
+
+
+# // Reddit shit (placeholder)
+
+
+# // Tumblr shit
+127.0.0.1  dalle2.tumblr.com
+
+
+# // Pixels
+127.0.0.1  pixels.com/featured/beautiful-chinese-dragon-lmzkone-narciso-marlene
+127.0.0.1  pixels.com/profiles/lm2kone
+
+
+# // Amazon shit
+127.0.0.1  amazon.com/Cute-Anime-Girls-Fantasy-Inspired-Characters/dp/B0C47SW6NT
+127.0.0.1  amazon.com/Cat-Coloring-Book-Wearing-Scarves/dp/B0CVTYD34P
+127.0.0.1  amazon.com/Easter-Rabbit-Coloring-Book-Lovers/dp/B0CVVJQP39
+127.0.0.1  amazon.com/Squirrel-Coloring-Book-Squirrels-Lovers/dp/B0CVHLGJS8
+127.0.0.1  amazon.com/Rabbit-Coloring-Book-Rabbits-Lovers/dp/B0CV43GKGZ
+127.0.0.1  amazon.com/Cat-Coloring-Book-Cats-Windows/dp/B0CVLFSSGC
+
+
+# // AI content farms
+127.0.0.1  boddeswasusi.github.io
+127.0.0.1  stl24.com
+127.0.0.1  outsourceit.today
+127.0.0.1  metaroids.com
+127.0.0.1  90creators.com
+127.0.0.1  gachax.com/anime
+
+
+# // VoiceMod shit
+127.0.0.1  tuna.voicemod.net/sound/1fdc3b37-441c-4a34-ae88-853bbbb947bb
+
+
+# // Getty Wallpapers
+127.0.0.1  gettywallpapers.com/cute-anime-girl-profile-pictures
