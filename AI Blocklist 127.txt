@@ -7,6 +7,10 @@
 # PRs: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/pulls
 # Feel free to fork and submit pr's if you find more sites 
 # 
+
+127.0.0.1  localhost
+::1  localhost
+
 # Sites hosting nothing but AI generated content/solely focused on AI/has an abundance of AI generated imagery... 100% confirmed
 # ------------------------------------[FILTERS]-------------------------------------
 # Sites that have .ai domain extentions
